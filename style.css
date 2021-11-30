@@ -19,12 +19,10 @@ section.module.parallax-4 {
     max-width: 1000px;
     margin: 0 auto;
     text-align: justify;
-    /* border: 1px solid black; */
 }
     section.module.content {
         padding: 60px ;
         text-align: left;
-        /* border: 10px solid red; */
        }
        section.module.parallax {
         height: 800px;
